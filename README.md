@@ -42,6 +42,10 @@ streamlit run streamlit_frontend.py
 
 [![Watch the Video](assets/Snapshot.JPG)](https://youtu.be/jnXWVUlkFhY)
 
+## Roadmap
+
+- add integrations with other O365 components - Teams, OneDrive, SharePoint etc
+
 ## Contributing
 
 ...is welcome! 🤗
