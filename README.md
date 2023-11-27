@@ -40,7 +40,7 @@ streamlit run streamlit_frontend.py
 
 ## Demo - click to watch the video
 
-[![Watch the Video](assets/Snapshot.JPG)](assets/o365-assistant.mp4)
+[![Watch the Video](assets/Snapshot.JPG)](https://youtu.be/jnXWVUlkFhY)
 
 ## Contributing
 
